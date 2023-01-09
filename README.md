@@ -1,6 +1,10 @@
 # Dying on the Inside: Investigation of Female Deaths in U.S. Prisons
-### by Alexandra Thursland, Noelle Garrick, Sydney Ballard, Alexandra Doss, and Katherine Beltz
+#### by Alexandra Thursland, Noelle Garrick, Sydney Ballard, Alexandra Doss, and Katherine Beltz
 
+## Overview
+This repository contains my final project for CS 216: Everything Data, F22. Over the course of 8 weeks, my team and I conducted a data science project investigating deaths in the U.S. carceral system, and specifically differences between the circumstances of men and women dying.
+
+## Introduction
 The United States is home to the largest prison population in the world. With 1.2 million people serving sentences in state and federal jails, 10 million admissions annually to county prisons and 4 million on probation or parole, our nation is experiencing a pandemic that long predates Covid-19: incarceration. 
 Those impacted by incarceration are disproportionately low-income people of color, the majority of whom are sentenced for non-violent offenses. This trend reinforces systemic racial inequity, creating a vicious feedback loop of disenfranchisement, widened wealth gaps and recidivism. Despite its enormous prison population, the United States is relatively unsafe by western standards—ranked 47 in the world for safety, according to U.S. News. 
 Following the murder of George Floyd and the subsequent wave of demonstrations that gripped the country in summer 2020, there has been a renewed public interest in addressing police brutality and incarceration—two intimately linked issues. In the 2022 midterm election, cash bail reform was a prominent and contentious issue. With political tensions on the rise, incarceration is at the forefront of many Americans minds.
